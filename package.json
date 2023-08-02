@@ -11,9 +11,9 @@
     "url": "git+https://github.com/sweetcode-com/docusaurus-plugin-cody.git"
   },
   "keywords": [
-    "cypress",
-    "report",
-    "results"
+    "docusaurus",
+    "plugin",
+    "cody"
   ],
   "author": "Aleksandar Vucenovic <aleksandar@sweetcode.com>",
   "license": "MIT",
